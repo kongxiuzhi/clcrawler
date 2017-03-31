@@ -1,0 +1,9 @@
+#Netscape HTTP Cookie File
+.cloudflare.com	TRUE	/	FALSE	1522242007	__cfduid	d6c8296fc9560b62e1f7ae8ee9b4b1a811490706007
+.viidii.info	TRUE	/	FALSE	1522242007	__cfduid	d39b0f053d516fdaa3f37678e0808f2ac1490706007
+.bvaz.club	TRUE	/	FALSE	1522242007	__cfduid	d9192de318d40af14e8d2f30668295ed01490706007
+.cl.bvaz.club	TRUE	/	FALSE	1553778068	__utma	142808551.1576426307.1490706008.1490706008.1490706008.1
+.cl.bvaz.club	TRUE	/	FALSE	1490707868	__utmb	142808551.3.10.1490706008
+.cl.bvaz.club	TRUE	/	FALSE	__utmc	142808551
+.cl.bvaz.club	TRUE	/	FALSE	1490706608	__utmt	1
+.cl.bvaz.club	TRUE	/	FALSE	1506474068	__utmz	142808551.1490706008.1.1.utmcsr=byibi.com|utmccn=(referral)|utmcmd=referral|utmcct=/
